@@ -1,9 +1,12 @@
 <h1 align="center">Hi , I'm Noam Rothschild!</h1>
 <h3 align="center">A passionate young developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noamrothschild&label=Profile%20views&color=0e75b6&style=flat" alt="noamrothschild" /> </p>
+<p align="cemter"> <img src="https://komarev.com/ghpvc/?username=noamrothschild&label=Profile%20views&color=0e75b6&style=flat" alt="noamrothschild" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noamrothschild" alt="noamrothschild" /></a> </p>
+
+<p align="center">
+   <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-darkBlue.svg"/>
+</p>
 
 - 📫 How to reach me **noamrtd@gmail.com**
 
