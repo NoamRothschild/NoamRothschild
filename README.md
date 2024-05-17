@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Noam Rothschild!</h1>
 <h3 align="center">A passionate young developer</h3>
 
-<p align="cemter"> <img src="https://komarev.com/ghpvc/?username=noamrothschild&label=Profile%20views&color=0e75b6&style=flat" alt="noamrothschild" /> </p>
+![](https://komarev.com/ghpvc/?username=noamrothschild&style=for-the-badge&color=blue)
 
 
 <p align="center">
