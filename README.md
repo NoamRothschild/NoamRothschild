@@ -1,27 +1,81 @@
-<h1 align="center">Hi, I'm Noam Rothschild!</h1>
-<h3 align="center">A passionate young developer</h3>
+<h1 align="center">Hi, I'm Noam Rothschild! 👋</h1>
+<h3 align="center">An overworking hobbyist developer</h3>
 
-<p align="center">
-   <img alt="views_amm" src="https://komarev.com/ghpvc/?username=noamrothschild&style=for-the-badge&color=blue"/>
-</p>
+<h3 align="left">Expertise shown in the following tools:</h3>
+
+[![My Skills](languages.svg)](https://skillicons.dev)
+
+- [x] Self learner
+- [x] lorem ipsum dor sit
+
+<h3 align="left">Some cools projects I made:</h3>
+
+<details>
+  <summary>(Assembly) A Simple Discord Clone 💬</summary>
+
+   ![image](https://github.com/user-attachments/assets/0fe0669e-3157-4e75-a6a7-f573bbfc1d34)
+
+  **A recap of the things done in the project:**
+  - Re-Implemented the SHA1 && Base64 protocols (based on their corresponding RFC's)
+  - Created a simple HTTP library for parsing and generating messages
+  - Implemented proper handling of websockets to allow for full-duplex communication
+   
+  - Created my own standart library including, but not all:
+  -  [x] string utilities
+  -  [x] file handling interrupt wrappers
+  -  [x] threading interrupt wrappers (including shared memory)
+  -  [x] time formatters
+  -  [x] socket creation and handling
+  -  [x] simple database for storing user data (2 distinct types)
+
+ And at the tip of the iceberg: **Merged them all to create a Discord clone**
+ 
+ After compiling the x86 nasm code and executing it, you can access the website on `localhost:8000` (you can allow the whole network to reach it with proper handling && nginx configured)
+
+ The site allows multiple users (after authenticating) to communicate with each other on 4 distinct channels in real time
+
+   <p align="left">
+     <a href="https://github.com/NoamRothschild/asm">
+        <img alt="Source Code" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Source-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
+     </a>
+   </p>
+</details>
+
+<details>
+  <summary>(Ruby) Multiplayer contribution for an open source game 🎮</summary>
+
+   <a> <img src="https://github.com/NoamRothschild/infinitefusion-multiplayer/assets/98104540/195f2331-e17a-4748-8ff7-692f98ddb878" alt="PIF-Multiplayer1" width="70%" height="70%"/> </a>    
+
+   This is my attempt in contributing to the beloved community of the open source game "Pokemon Infinite Fusion" by writing a way for players to play together!
+
+   This project has had several rewrites, the [readme](https://github.com/NoamRothschild/infinitefusion-multiplayer/blob/main/readme.md) in the oldest version should cover all data about the project, but the source of it is inside a new repository.
+
+   This project enables players to connect to a *redis* database and uses their pub-sub protocol to exchange data between clients, like player location, skin, and even trade items!
+
+   _This project is receiving updates inside the [Kuray Hub](https://discord.gg/kuray-hub-1121345297352753243) discord server._
+
+   <p align="left">
+     <a href="https://github.com/NoamRothschild/infinitefusionmultiplayer">
+        <img alt="Source Code" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Source-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
+     </a>
+   </p>
+</details>
 
 
-<p align="center">
-   <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-darkBlue.svg"/>
-</p>
+<details>
+  <summary>(Python, HTML-CSS-JS) Game Launcher for PIF 🚀</summary>
 
-- Overworking for fun on my free time ⚡ (16h/day coding on holidays)
-- ✔ Partipicating in many cyber & CS-Education programs
+   <a> <img src="https://github.com/NoamRothschild/KIFLauncher/blob/main/images/launcher.png" alt="image" width="70%" height="70%"/> </a>    
 
-- 15 years old working only from a point of passion & don't even care about money
+   Yet another contribution to the Infinite Fusion community!
 
-<h3 align="left">Most used languages and tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+   This project aims to provide easier support for installing the game, and configuring random QOL features
+   
+   _This project is receiving updates inside the [Kuray Hub](https://discord.gg/kuray-hub-1121345297352753243) discord server._
 
-## **A peek into my first project!**
-<p align="left"> 
-   <a> <img src="https://github.com/NoamRothschild/NoamRothschild/assets/98104540/57d446f9-80a4-41d7-9f75-6a965967496a" alt="PIF-Multiplayer2" width="256" height="192"/> </a> 
-   <a> <img src="https://github.com/NoamRothschild/infinitefusion-multiplayer/assets/98104540/195f2331-e17a-4748-8ff7-692f98ddb878" alt="PIF-Multiplayer1" width="256" height="192"/> </a> 
-</p>
-
-- 📫 Reach me!: **noamrtd@gmail.com**
+   <p align="left">
+     <a href="https://github.com/NoamRothschild/KIFLauncher">
+        <img alt="Source Code" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Source-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
+     </a>
+   </p>
+</details>
