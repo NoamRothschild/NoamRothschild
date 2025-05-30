@@ -1,12 +1,22 @@
 <h1 align="center">Hi, I'm Noam Rothschild! 👋</h1>
 <h3 align="center">An overworking hobbyist developer</h3>
 
-<h3 align="left">Expertise shown in the following tools:</h3>
+<h3 align="left">Expertise in the following tools:</h3>
 
 [![My Skills](languages.svg)](https://skillicons.dev)
 
-- [x] Self learner
-- [x] lorem ipsum dor sit
+<h3 align="left">Education:</h3>
+
+- Majoring in Cyber & Computer Science
+- Partipicating in the Magshimim program
+
+<h3 align="left">Hobbies:</h3>
+
+- Playing the Guitar 🎸
+- Automating my daily life
+- Low level coding 👨‍💻
+- Networking
+- Praying AI to not take my future job (😭)
 
 <h3 align="left">Some cools projects I made:</h3>
 
