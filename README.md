@@ -18,7 +18,7 @@
 - Networking
 - Praying AI to not take my future job (😭)
 
-<h3 align="left">Some cools projects I made:</h3>
+<h3 align="left">(CLICK TO EXPAND) Some cools projects I made:</h3>
 
 <details>
   <summary>(Assembly) A Simple Discord Clone 💬</summary>
@@ -71,6 +71,21 @@
    </p>
 </details>
 
+<details>
+  <summary>(Zig) An interpreter for 8086 aseembly ⚙️</summary>
+  <img width="1600" height="803" alt="image" src="https://github.com/user-attachments/assets/4b79f884-d8a0-4c39-96be-a50f1a9166f9" />
+
+  Initially made in order to automate an entrance exam in my school
+
+  - parses the given string inputs into smart and compact structures that are blazingly fast to interpret.
+  - provides a REPL for experimenting with instructions, along with a CLI
+  
+   <p align="left">
+     <a href="https://github.com/NoamRothschild/asm-interpreter">
+        <img alt="Source Code" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-Source-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
+     </a>
+   </p>
+</details>
 
 <details>
   <summary>(Python, HTML-CSS-JS) Game Launcher for PIF 🚀</summary>
