@@ -1,9 +1,15 @@
 <h1 align="center">Hi, I'm Noam Rothschild! 👋</h1>
 <h3 align="center">An overworking hobbyist developer</h3>
 
-<h3 align="left">Expertise in the following tools:</h3>
+<h3 align="left">The tools I am most familiar with include</h3>
 
-[![My Skills](languages.svg)](https://skillicons.dev)
+<h4>laguages:</h4>
+
+![zig,asm,python,git,c,ruby,cpp](languages.svg)
+
+<h4>daily enviornment and tools: (I use nvim and linux btw)</h4>
+
+![git,linux,vim,github,vscode,bash](https://skillicons.dev/icons?i=git,linux,vim,github,vscode,discord,bash)
 
 <h3 align="left">Education:</h3>
 
@@ -12,13 +18,15 @@
 
 <h3 align="left">Hobbies:</h3>
 
+- writing and designing systems
+- using up 5 hours to create automations for 5 minuet tasks
 - Playing the Guitar 🎸
-- Automating my daily life
-- Low level coding 👨‍💻
-- Networking
-- Praying AI to not take my future job (😭)
+- hearing tech podcasts and news
+- thinking of new ways to revolutionize the useless normal education system
+- complaining after big ai tech leaders saying I will have no future job
+- going out to walks in the vineyard
 
-<h3 align="left">(CLICK TO EXPAND) Some cools projects I made:</h3>
+<h3 align="left">Projects (click to expand):</h3>
 
 <details>
   <summary>(Assembly) A Simple Discord Clone 💬</summary>
