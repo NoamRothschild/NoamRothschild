@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Noam Rothschild! 👋</h1>
 <h3 align="center">An overworking hobbyist developer</h3>
+<h3 align="center"><a href="resume-july-26.pdf">resume</a></h3>
 
 <h3 align="left">The tools I am most familiar with include</h3>
 
